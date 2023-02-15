@@ -1,4 +1,3 @@
-# Python 2/3 compatibility
 from __future__ import print_function
 import cv2
 from common import draw_str
